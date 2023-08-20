@@ -5,18 +5,20 @@ categories: [category2, subcategory2]
 tags: [test,try]
 ---
 
-# Chapter 1
+## Chapter 0
 
-Some textt
+JetBrains Mono’s typeface forms are simple and free from unnecessary details. Rendered in small sizes, the text looks crisper.
 
-## Chapter 1.1
+1lI, 0O
 
-Some other text
+### Chapter 0.1
+
+Some **other** text
 
 - item1
 - item2
 
-# Chapter 2
+## Chapter 1
 
 ```
 find /usr -t f -name "*test*"
@@ -28,3 +30,7 @@ import sys
 
 sys.exit()
 ```
+
+### Chapter 1.1
+
+Test
