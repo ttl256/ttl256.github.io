@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('fonts/JetBrainsMono-Regular.woff2') format('woff2'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+body {
+  font-family: 'JetBrains Mono', sans-serif;
+}
+
+code {
+  font-family: 'JetBrains Mono', monospace;
+}
